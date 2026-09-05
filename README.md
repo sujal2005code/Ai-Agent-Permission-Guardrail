@@ -1,19 +1,27 @@
-# 🛡️ AI Agent Permission Guardrail
-
-> **AI proposes. Policy decides. Executor obeys. Audit remembers.**
-
-A security-focused fintech system that separates AI reasoning from authorization and execution.
-
 ## 🖥️ Dashboard Preview
 
-<p align="center">
-  <img src="Scrrenshot/01-overview.png" width="48%">
-  <img src="Scrrenshot/02-process.png" width="48%">
-</p>
+### 📊 System Overview
 
 <p align="center">
-  <img src="Scrrenshot/03-audit-log.png" width="48%">
-  <img src="Scrrenshot/04-statistics.png" width="48%">
+  <img src="Scrrenshot/01-overview.png" width="80%">
+</p>
+
+### ⚡ Transaction Processing
+
+<p align="center">
+  <img src="Scrrenshot/02-process-transaction.png" width="80%">
+</p>
+
+### 🧾 Audit Trail
+
+<p align="center">
+  <img src="Scrrenshot/03-audit-log.png" width="80%">
+</p>
+
+### 📈 System Statistics
+
+<p align="center">
+  <img src="Scrrenshot/04-statistics.png" width="80%">
 </p>
 
 ## 🚨 The Problem
