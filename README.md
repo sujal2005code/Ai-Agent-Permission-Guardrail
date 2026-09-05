@@ -2,13 +2,19 @@
 
 > **AI proposes. Policy decides. Executor obeys. Audit remembers.**
 
-A security-focused fintech demonstration that separates **AI reasoning from authorization and execution**.
+A security-focused fintech system that separates AI reasoning from authorization and execution.
 
-Instead of allowing an AI agent to directly perform a payment operation, this project treats every AI-generated action as **untrusted input**. The proposal must pass a deterministic, code-enforced Policy Engine before the protected Executor can do anything.
+## 🖥️ Dashboard Preview
 
-![Architecture](Scrrenshot/test1.png)
+<p align="center">
+  <img src="Scrrenshot/01-overview.png" width="48%">
+  <img src="Scrrenshot/02-process.png" width="48%">
+</p>
 
----
+<p align="center">
+  <img src="Scrrenshot/03-audit-log.png" width="48%">
+  <img src="Scrrenshot/04-statistics.png" width="48%">
+</p>
 
 ## 🚨 The Problem
 
